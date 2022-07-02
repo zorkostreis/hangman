@@ -8,7 +8,7 @@ You are shown a set of blank letters that match a word and you have to guess wha
 
 You can make no more than 7 mistakes before you lose the game.
 
-The game was written on [Ruby](https://www.ruby-lang.org/ru/).
+The game was written in [Ruby](https://www.ruby-lang.org/ru/).
 
 ## Usage
 
