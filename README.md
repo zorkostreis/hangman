@@ -20,10 +20,16 @@ Clone repository:
 git clone https://github.com/zorkostreis/hangman.git
 ```
 
+To install gems run:
+
+```
+bundle install
+```
+
 Run the program:
 
 ```
-ruby main.rb
+bundle exec ruby main.rb
 ```
 
 Try to quess the word:
